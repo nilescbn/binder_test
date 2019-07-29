@@ -52,3 +52,8 @@ Now, run through analysis.R till you get to a plot
 ```
 
 Does clicking the badge launch binder for you? If not, please [file an issue](https://github.com/karthik/binder-test/issues/new).
+
+<!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nilescbn/binder_test/master?urlpath=rstudio)
+<!-- badges: end -->
+
